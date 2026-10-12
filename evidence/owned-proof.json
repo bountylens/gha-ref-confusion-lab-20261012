@@ -1,0 +1,12 @@
+{
+  "api_status": 201,
+  "branch": "controlled-persistence-38190498770",
+  "canary_sha256": "4de74cba3ac9099632cecba4f20cc3a174b070f5ec7eb35ad9520c5e144a69a4",
+  "event": "push",
+  "marker": "checkout-git-wrapper-captured-write-token",
+  "repository": "bountylens/gha-ref-confusion-lab-20261012",
+  "run_id": "38190498770",
+  "runner_name": "controlled-aws-i-098012f60d1c569c5",
+  "sha": "1edd382860a2292789d1af1a593bfa21dc5ee87a",
+  "checkout_credential_digest": "sha256:c61f1c476c83eaada63d52c0360e2c2cb1e08275a5065fef96f16a104a113c02"
+}
